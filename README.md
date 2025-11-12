@@ -174,6 +174,31 @@ Then open http://localhost:7860 in your browser.
 - **Current**: Basic image understanding
 - **Future**: Advanced OCR and visual question answering
 
+## Bibliography
+```bash
+1. B. Ashwath, Vigneshwar P, Kanishkar K. "Deeply Supervised Practical Implementation of
+Violence Detection from Videos for Maximizing Performance."
+10.36227/techrxiv.20060975.v1
+2. Reimers, N., & Gurevych, I. "Sentence-BERT: Sentence Embeddings using Siamese BERTNetworks." In Proceedings of the 2019 Conference on Empirical Methods in Natural
+Language Processing. https://arxiv.org/abs/1908.10084
+3. Radford, A., Kim, J.W., Hallacy, C., et al. "Learning Transferable Visual Models From
+Natural Language Supervision." In Proceedings of the 38th International Conference on
+Machine Learning (ICML 2021). https://arxiv.org/abs/2103.00020
+4. ChromaDB. "Chroma: The AI-native open-source embedding database."
+https://www.trychroma.com/
+5. Groq. "Groq API Documentation." https://console.groq.com/docs
+6. Wolf, T., Debut, L., Sanh, V., et al. "Transformers: State-of-the-Art Natural Language
+Processing." In Proceedings of the 2020 Conference on Empirical Methods in Natural
+Language Processing: System Demonstrations. https://aclanthology.org/2020.emnlpdemos.6
+7. Wolf, T., & Rush, A.M. Parameter-Efficient Fine-Tuning of Transformers (LoRA, QLoRA,
+and others). Hugging Face Documentation. https://huggingface.co/docs/peft/index
+8. Unstructured. "The Unstructured Python Library." https://github.com/UnstructuredIO/unstructured
+9. PyMuPDF Documentation. https://pymupdf.readthedocs.io/en/latest/
+10. Abadi, M., et al. "TensorFlow: A system for large-scale machine learning." Proceedings of
+the 12th USENIX Symposium on Operating Systems Design and Implementation.
+https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf
+```
+
 ## 🤝 Contributing
 
 I welcome contributions!
