@@ -178,10 +178,6 @@ Then open http://localhost:7860 in your browser.
 
 I welcome contributions!
 
-## 📄 License
-
-This project is licensed under the MIT License
-
 ## 🙏 Acknowledgments
 
 - Google Colab for free computational resources
